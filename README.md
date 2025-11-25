@@ -4,7 +4,7 @@ This repository contains the MATLAB implementation and reproducible numerical
 benchmarks used in the research article:
 
 **“Extended Melnikov Method for Higher-Dimensional Chemical Reaction Networks”  
-M. S. V. D. Sudarsan and Pradheep Kumar S. (2025)**
+M. S. V. D. Sudarsan (2025)**
 
 The codes reproduce the numerical values reported in Table 1 of the manuscript
 (Extended Melnikov runtimes and error metrics for substrate inhibition, enzymatic
