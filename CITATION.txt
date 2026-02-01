@@ -1,0 +1,4 @@
+If you use this code or methodology, please cite:
+
+M. S. V. D. Sudarsan and S. Pradheep Kumar,
+"An Efficient Melnikov–Lyapunov Computational Diagnostic for Transition Detection in Slow–Fast Chemical Reaction Networks", 2026.
