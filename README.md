@@ -22,3 +22,9 @@ feedback, and the balanced modified Oregonator).
 1. Download or clone this repository:
    ```bash
    git clone https://github.com/msvdsudarsan/extended-melnikov-crn-benchmarks.git
+
+   This repository contains MATLAB codes, benchmark datasets, and supplementary materials supporting the research paper:
+
+"An Efficient Melnikov–Lyapunov Computational Diagnostic for Transition Detection in Slow–Fast Chemical Reaction Networks"
+
+All numerical experiments and benchmark results reported in the manuscript can be reproduced using the scripts provided here.
