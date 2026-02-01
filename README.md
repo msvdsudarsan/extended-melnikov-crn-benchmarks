@@ -1,4 +1,4 @@
-# Extended Melnikov Method for Higher-Dimensional CRNs
+# # Extended Melnikov Method for Higher-Dimensional CRNs
 
 This repository contains the MATLAB implementation and reproducible numerical benchmarks used in the research article:
 
