@@ -1,4 +1,4 @@
-If you use this code or methodology, please cite:
+If you use this code, please cite:
 
 Sri Venkata Durga Sudarsan Madhyannapu and Pradheep Kumar S.,
 "An Efficient Adjoint-Free Melnikov-Lyapunov Diagnostic for Transition
@@ -9,11 +9,12 @@ Manuscript ID: CNSNS-D-26-00848, Under Review, 2026.
 
 BibTeX:
 @article{sudarsan2026melnikov,
-  title     = {An Efficient Adjoint-Free Melnikov-Lyapunov Diagnostic for Transition
-		Detection in Slow-Fast Chemical Reaction Networks},
-  author    = {Sudarsan, M. S. V. D. and Pradheep Kumar, S.},
+  title     = {An Efficient Adjoint-Free Melnikov--Lyapunov Diagnostic for
+               Transition Detection in Slow--Fast Chemical Reaction Networks},
+  author    = {Madhyannapu, Sri Venkata Durga Sudarsan and Pradheep Kumar, S.},
   journal   = {Communications in Nonlinear Science and Numerical Simulation},
   publisher = {Elsevier},
+  issn      = {1007-5704},
   year      = {2026},
   note      = {Under Review, Manuscript ID: CNSNS-D-26-00848}
 }
