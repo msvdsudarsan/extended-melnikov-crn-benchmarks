@@ -1,6 +1,6 @@
 function benchmark_enzymatic_clean()
 %% Paper Title: "An Efficient Adjoint-Free Melnikov-Lyapunov Diagnostic for
-%%               Transition Detection in Slow-Fast Chemical Reaction Networks"
+                 Transition Detection in Slow-Fast Chemical Reaction Networks"
 %% Author 1:    Sri Venkata Durga Sudarsan Madhyannapu
 %% Author 2:    Pradheep Kumar S.
 %%
@@ -36,3 +36,4 @@ fprintf('Extended Melnikov runtime = %.6f sec\n', tM);
 fprintf('Reference runtime         = %.6f sec\n', tR);
 fprintf('Error metric              = %.6e\n', err);
 end
+
