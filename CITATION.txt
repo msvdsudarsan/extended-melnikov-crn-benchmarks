@@ -1,4 +1,19 @@
 If you use this code or methodology, please cite:
 
-M. S. V. D. Sudarsan and S. Pradheep Kumar,
-"An Efficient Melnikov–Lyapunov Computational Diagnostic for Transition Detection in Slow–Fast Chemical Reaction Networks", 2026.
+Sri Venkata Durga Sudarsan Madhyannapu and Pradheep Kumar S.,
+"An Efficient Adjoint-Free Melnikov-Lyapunov Diagnostic for Transition
+Detection in Slow-Fast Chemical Reaction Networks,"
+Communications in Nonlinear Science and Numerical Simulation,
+Elsevier, ISSN: 1007-5704,
+Manuscript ID: CNSNS-D-26-00848, Under Review, 2026.
+
+BibTeX:
+@article{sudarsan2026melnikov,
+  title     = {An Efficient Adjoint-Free Melnikov-Lyapunov Diagnostic for Transition
+		Detection in Slow-Fast Chemical Reaction Networks},
+  author    = {Sudarsan, M. S. V. D. and Pradheep Kumar, S.},
+  journal   = {Communications in Nonlinear Science and Numerical Simulation},
+  publisher = {Elsevier},
+  year      = {2026},
+  note      = {Under Review, Manuscript ID: CNSNS-D-26-00848}
+}
