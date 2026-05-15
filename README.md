@@ -1,4 +1,5 @@
 # An Efficient Adjoint-Free Melnikov–Lyapunov Diagnostic for Transition Detection in Slow–Fast Chemical Reaction Networks
+DOI: https://doi.org/10.5281/zenodo.20196726
 
 ## Authors
 - **Sri Venkata Durga Sudarsan Madhyannapu**
